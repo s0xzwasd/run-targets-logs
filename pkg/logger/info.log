@@ -1,0 +1,2 @@
+2021/12/22 15:33:41 logger.go:28: Log path is /Users/daniil.maslov/Projects/Go/run-targets-logs/pkg/logger/info.log
+2021/12/22 15:33:41 main.go:34: Server v0.01 pid=6342 started with processes: 16
